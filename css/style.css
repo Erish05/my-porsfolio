@@ -152,12 +152,12 @@ button {
 
 
 h2 {
-    color: #333;
+    color: white;
 }
 
 p {
     line-height: 1.6;
-    color: #555;
+    color: white;
 }
 
 ul {
@@ -295,7 +295,7 @@ align-items: center;
 text-align: justify;
 padding: 10px;
 border-radius: 15px;
-background: linear-gradient(to top,rgb(255,45,45)50%,white 50%);
+background: linear-gradient(to top,gray,white 50%);
 background-size: 100% 200%;
 transition: all .8s;
 }
@@ -303,7 +303,7 @@ transition: all .8s;
     background-position: left bottom;
     color: white;
     border: none;
-    box-shadow: 0 0 20px rgb(255,45,45);
+    box-shadow: 0 0 20px gray;
 }
 .box img{
     width: 80px;
